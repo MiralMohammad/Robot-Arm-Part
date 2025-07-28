@@ -2,8 +2,6 @@
 
 
 This is a custom-designed **U-bracket component** intended for use in a **robotic arm**. It was created using the **Onshape** online CAD platform.
-
-![Circuit Diagram](./RobotArmPart.png)
 ---
 
 ---
@@ -45,12 +43,6 @@ The part was created in **Onshape** using the following process:
 
 ---
 
-## 📸 Preview
-
-> ![Robot Arm U-Bracket](./RobotArmPart.png)  
-> *Solid U-bracket with bolt cutouts and pinholes*
-
----
 
 ## 💡 Intended Use
 
@@ -58,18 +50,25 @@ This bracket is ideal for:
 - 🤖 **Robot arm joints** and servo mounts
 - 🔧 **Structural frames** in robotics or DIY mechatronics
 - 🛠 **Custom mechanical assemblies** with bolt and pin integration
+---
+
+## 📸 Preview
+
+> ![Robot Arm U-Bracket](./RobotArmPart.png)  
+> *Solid U-bracket with bolt cutouts and pinholes*
 
 ---
 
-## 🙌 Credits
-
-Designed by **Miral Abdulwahed** using [Onshape](https://www.onshape.com/).  
-
----
 
 ## 🔗 Online Model Access
 
 You can view and interact with the 3D model directly on Onshape:  
 👉 [Click here to open the design in Onshape](https://cad.onshape.com/documents/537b9db094150a0394611409/w/cc4da5761f0c093aa4475f23/e/4bbb944d1d782ed0d7921ab2?renderMode=0&uiState=687e0ff7d1f81f35e34dfc58)
+
+## 🙌 Credits
+
+Designed by **Miral Abdulwahed** using [Onshape](https://www.onshape.com/).  
+
+
 
 
