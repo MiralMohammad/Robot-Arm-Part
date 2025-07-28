@@ -61,18 +61,15 @@ This bracket is ideal for:
 
 ---
 
-## 📜 License
-
-This design is shared under the MIT License.  
-Feel free to copy, modify, and integrate into your own robotic projects.
-
----
-
 ## 🙌 Credits
 
 Designed by **Miral Abdulwahed** using [Onshape](https://www.onshape.com/).  
-Great for educational, hobbyist, and prototyping purposes!
+
+---
+
+## 🔗 Online Model Access
+
+You can view and interact with the 3D model directly on Onshape:  
+👉 [Click here to open the design in Onshape](https://cad.onshape.com/documents/537b9db094150a0394611409/w/cc4da5761f0c093aa4475f23/e/4bbb944d1d782ed0d7921ab2?renderMode=0&uiState=687e0ff7d1f81f35e34dfc58)
 
 
-
-https://cad.onshape.com/documents/537b9db094150a0394611409/w/cc4da5761f0c093aa4475f23/e/4bbb944d1d782ed0d7921ab2?renderMode=0&uiState=687e0ff7d1f81f35e34dfc58
