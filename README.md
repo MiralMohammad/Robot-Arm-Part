@@ -5,6 +5,11 @@ This is a custom-designed **U-bracket component** intended for use in a **roboti
 
 
 
+
+
+
+
+
 ## 🛠️ Design Steps
 
 The part was created in **Onshape** using the following process:
