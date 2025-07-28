@@ -2,7 +2,7 @@
 
 
 This is a custom-designed **U-bracket component** intended for use in a **robotic arm**. It was created using the **Onshape** online CAD platform.
----
+
 
 ---
 
@@ -65,6 +65,7 @@ This bracket is ideal for:
 You can view and interact with the 3D model directly on Onshape:  
 👉 [Click here to open the design in Onshape](https://cad.onshape.com/documents/537b9db094150a0394611409/w/cc4da5761f0c093aa4475f23/e/4bbb944d1d782ed0d7921ab2?renderMode=0&uiState=687e0ff7d1f81f35e34dfc58)
 
+---
 ## 🙌 Credits
 
 Designed by **Miral Abdulwahed** using [Onshape](https://www.onshape.com/).  
