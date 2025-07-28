@@ -14,24 +14,24 @@ This is a custom-designed **U-bracket component** intended for use in a **roboti
 
 The part was created in **Onshape** using the following process:
 
-### 1. ✏️ U-Shape Sketch
+### 1. U-Shape Sketch
 - Drew a **U-shaped profile** using **8 connected lines** to form the base and side walls.
 - This served as the main structure of the bracket.
 
-### 2. 📦 Extrude 3D
+### 2. Extrude 3D
 - Used the **Extrude tool** to convert the 2D U-shape into a 3D solid bracket.
 
-### 3. 🔘 Circular Add-On at Base
+### 3. Circular Add-On at Base
 - Sketched a **circle** at the bottom center of the U-shape.
 - Extruded it using the **"Add" option** to fuse it with the existing body — possibly to support another mounting component or strengthen the base.
 
-### 4. 🌀 Fillets for Smoother Edges
+### 4. Fillets for Smoother Edges
 - Applied **fillet features** to the sharp corners to:
   - Smooth the part for handling and assembly.
   - Improve structural strength by reducing stress points.
   - Add a sleek, curved appearance to the bracket.
 
-### 5. 🕳️ Openings for Assembly
+### 5.  Openings for Assembly
 - Added **circular holes** on the vertical side walls — likely for rotational joints or pins.
 - Created **hexagonal holes** on the bottom platform — designed to fit hex-head bolts securely.
 - Used **Extrude Remove** to cut through the body with both shapes.
@@ -51,9 +51,9 @@ The part was created in **Onshape** using the following process:
 ## 💡 Intended Use
 
 This bracket is ideal for:
-- 🤖 **Robot arm joints** and servo mounts
-- 🔧 **Structural frames** in robotics or DIY mechatronics
-- 🛠 **Custom mechanical assemblies** with bolt and pin integration
+-  **Robot arm joints** and servo mounts
+-  **Structural frames** in robotics or DIY mechatronics
+-  **Custom mechanical assemblies** with bolt and pin integration
 ---
 
 ## 📸 Preview
