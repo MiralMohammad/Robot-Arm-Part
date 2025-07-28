@@ -1,12 +1,10 @@
 # 🤖 U-Bracket Mount for Robotic Arm
 
-![Circuit Diagram](./RobotArmPart.png)
-
 
 This is a custom-designed **U-bracket component** intended for use in a **robotic arm**. It was created using the **Onshape** online CAD platform.
----
-# 🤖 U-Bracket Mount for Robotic Arm
 
+![Circuit Diagram](./RobotArmPart.png)
+---
 
 ---
 
