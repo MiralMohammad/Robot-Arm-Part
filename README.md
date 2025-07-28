@@ -4,7 +4,6 @@
 This is a custom-designed **U-bracket component** intended for use in a **robotic arm**. It was created using the **Onshape** online CAD platform.
 
 
----
 
 ## 🛠️ Design Steps
 
